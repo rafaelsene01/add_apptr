@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@addapptr/react-native-aatkit@^0.9.30":
+  version "0.9.30"
+  resolved "https://registry.yarnpkg.com/@addapptr/react-native-aatkit/-/react-native-aatkit-0.9.30.tgz#202d109b88f395044b2752399c824474377c3e41"
+  integrity sha512-bbAUPhQJyj0yKIL7WqmbsLvUaYVL5CBdFfieZmLol7a2NQ5dOzB8cSmCT4qcWiVnKfzfh1vklUNMYhvsw1Rjeg==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.3":
   version "7.10.3"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.10.3.tgz#324bcfd8d35cd3d47dae18cde63d752086435e9a"
@@ -5768,9 +5773,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
